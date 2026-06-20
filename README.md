@@ -5,10 +5,11 @@
 ## 📊 Project Visualizations
 
 ### Customer Segments
-![Customer Segments](images/customer_segments.png)
+![Customer Segments](customer%20segment.png)
+
 
 ### Elbow Method
-![Elbow Method](images/elbow_method.png)
+![Elbow Method](elbow%20method.png)
 
 ## 🌟 Project Story
 
