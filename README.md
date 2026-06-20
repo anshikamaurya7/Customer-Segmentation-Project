@@ -2,6 +2,14 @@
 
 > Understanding customers is the first step toward building successful businesses.
 
+## 📊 Project Visualizations
+
+### Customer Segments
+![Customer Segments](images/customer_segments.png)
+
+### Elbow Method
+![Elbow Method](images/elbow_method.png)
+
 ## 🌟 Project Story
 
 Have you ever wondered why companies send different offers to different customers?
